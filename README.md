@@ -1,3 +1,6 @@
+A fun app you can enter an ingredient or food and it will return up to 10 recipes you can make with the ingredient
+Uses mainly React, Javscript, HTML, CSS and API from edamam.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
